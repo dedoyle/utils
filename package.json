@@ -1,0 +1,14 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dedoyle/utils.git",
+  "author": "jindong.huang <jindong.huang@weride.ai>",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "@rollup/plugin-typescript": "^8.2.1",
+    "tslib": "^2.3.0",
+    "typescript": "^4.3.3"
+  }
+}
